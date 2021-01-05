@@ -1,0 +1,4 @@
+backend_nodeJS/node_modules
+./backend_nodeJS/node_modules
+client_side/node_modules
+./client_side/node_module
